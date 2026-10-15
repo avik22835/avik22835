@@ -40,9 +40,24 @@ Every pull request, commit and build from my public activity. This section rebui
 
 | Project | PR | What it does | Status | Date |
 |:--|:--|:--|:--|:--|
-| [metacall/core](https://github.com/metacall/core) | [#738](https://github.com/metacall/core/pull/738) | Idempotent RubyGems release pipeline | ✓ Merged | - |
+| [metacall/core](https://github.com/metacall/core) | [#738](https://github.com/metacall/core/pull/738) | Automated Ruby Gem release pipeline and Cross Platform CI fixes | ✓ Merged | 12 Apr 2026 |
+| [metacall/core](https://github.com/metacall/core) | [#684](https://github.com/metacall/core/pull/684) | modernize python release workflow with oidc (#14) | ✗ Closed, not merged | 21 Mar 2026 |
+| [metacall/protocol](https://github.com/metacall/protocol) | [#56](https://github.com/metacall/protocol/pull/56) | Feature/malicious logic test | ✗ Closed, not merged | 21 Mar 2026 |
+| [metacall/protocol](https://github.com/metacall/protocol) | [#57](https://github.com/metacall/protocol/pull/57) | Feature/malicious logic test | ✗ Closed, not merged | 21 Mar 2026 |
+| [metacall/core](https://github.com/metacall/core) | [#775](https://github.com/metacall/core/pull/775) | Feature/test cpp fix | ✗ Closed, not merged | 18 Apr 2026 |
 
-_Commits and build status appear here after the first scheduled run._
+**Latest commits** (public, across my repos)
+
+_No recent public commits._
+
+**Latest build on each project**
+
+| Project | Build | Last run |
+|:--|:--|:--|
+| [graphmem](https://github.com/avik22835/graphmem) | [✓ Passing](https://github.com/avik22835/GraphMem/actions/runs/35578092363) | 21 Sep 2026 |
+| [clicksense](https://github.com/avik22835/clicksense) | ○ No workflow runs yet | - |
+| [jarvis-ai](https://github.com/avik22835/jarvis-ai) | ○ No workflow runs yet | - |
+| [polyglot-intel](https://github.com/avik22835/polyglot-intel) | ○ No workflow runs yet | - |
 <!--LEDGER:END-->
 
 ## Stack
